@@ -1,0 +1,81 @@
+
+                <p>
+Teknologi dan perkembangan ilmu saat ini sangat pesat.<br>
+Dimana setiap liku-liku dan gerak-gerik kehidupan saat ini sangat dipengaruhi oleh adanya informasi yang kemudian informasi tersebut dapat diperoleh melalui ilmu teknologi dan pengetahuan.
+</p>
+
+<p>
+Komputer adalah mesin yang dapat diinstruksikan untuk menjalankan urutan aritmatika atau operasi logika secara otomatis melalui pemrograman komputer,<br>
+komputer digunakan sebagai alat pengoprasiann atau penggunaan mesin untuk melakukan peloses perhitungan.<br>
+Komputer dari generasi ke generasi mengalami perkembangan sangat pesat dalama mengolah data baik kecepatan maupun kapasitasnya.<br>
+Sebuah Data yang dibuat tidak hanya angka atau teks, tapi juga komputer dapat mengolah sebuah gambar atau grafika.<br>
+Komputer yang dapat mengolah grafis untuk gambar atau grafika disebut grafis komputer.
+</p>
+
+<p>
+Komputer grafik adalah ilmu dan seni berkomunikasi secara visual melalui tampilan komputer dan perangkat interaksinya.<br>
+Aspek visual komunikasi biasanya dalam arah komputer-ke-manusia, dengan manusia-ke-
+</p>
+<p>
+Definisi sempit dari grafik komputer akan menyatakan bahwa itu mengacu pada pengambilan file model objek dalam sebuah adegan<br>
+(deskripsi geometris dari hal-hal dalam sebuah adegan dan deskripsi tentang bagaimana mereka memantulkan cahaya) dan model cahaya yang dipancarkan ke scene<br>
+(deskripsi matematis dari sumber energi cahaya, arah radiasi, distribusi panjang gelombang cahaya, dan lain-lain.),<br>
+dan kemudian menghasilkan representasi pandangan tertentu dari pemandangan (cahaya yang sampai pada suatu mata imajine atau kamera di tempat kejadian).<br><br>
+Untuk mengalikan cahaya yang masuk dengan reflektivitas objek di dalamnya untuk menghitung cahaya yang meninggalkan permukaan objek tersebut dan mengulangi prosesnya<br>
+(memperlakukan permukaan sebagai sumber cahaya baru dan secara rekursif menjalankan operasi pengangkutan cahaya),<br>
+menentukan semua cahaya yang pada akhirnya mencapai kamera.<br><br>
+(Di prakteknya, pendekatan ini tidak bisa diterapkan, tetapi idenya tetap.)<br>
+Sebaliknya, sistem komputer sama dengan suatu pemandangan,<br>
+sistem komputer bertanggung jawab untuk menentukan iluminasi atau konten adegan<br>
+(yang sistem grafis kemudian dapat “berkembang biak” bersama untuk mereproduksi gambar yang sama).<br>
+Sebenarnya, tentu saja, sistem
+</p>
+
+                <h3>Sejarah Komputer Grafik</h3>
+<p>
+Sejarah komputer grafik telah ditemukan pada abad dahulu kala itu ketika bangsa Yunani, iRoma dan Mesir berkomunikasi secara grafik.<br>
+Beberapa lukisan yang terdapat pada sebuah batu nisan. Orang-orang Mesir dapat dikatakan sebagai lukisan teknik.<br>
+Perkembangan komputer grafik secara sederhana dapat dibagi menjadi empat fase, yaitu:
+</p>
+
+<ol>
+  <li>
+    Fase Pertama (1950–1960)
+    <ul>
+      <li>a) Tampilan grafis komputer Vectorscope pada komputer di MIT.</li>
+      <li>b) Sistem Sage menggunakan pena cahaya pertama sebagai perangkat input di MIT Lab.</li>
+      <li>c) Laboratorium Lawrence Livermore mengasosiasikan tampilan grafis dengan IBM 704 dan perekam film untuk gambar berwarna.</li>
+      <li>d) Di National Bureau of Standards, foto yang diproses gambar pertama digunakan.</li>
+    </ul>
+  </li>
+
+  <li>
+    Fase Kedua (1960–1970)
+    <ul>
+      <li>a) Di Laboratorium MIT Lincoln, menghasilkan sistem komunikasi grafis manusia-mesin.</li>
+      <li>b) Komputer analog dikembangkan oleh pertamkali dan digunakan untuk mengubah gambar.</li>
+      <li>c) IBM 2250, komputer grafis pertama yang tersedia.</li>
+      <li>d) Game komputer grafik pertama, "Odyssey".</li>
+      <li>e) Animasi komputer pertama "FLEXIPEDE" di Inggris.</li>
+    </ul>
+  </li>
+
+  <li>
+    Fase Ketiga (1970–1980)
+    <ul>
+      <li>a) Konsep algoritma Z-buffer dan pemetaan tekstur dikembangkan.</li>
+      <li>b) Edwin Catmull memperkenalkan sistem animasi Tween.</li>
+      <li>c) Film penampilan 3D pertama dibuat oleh Gary Demos, John Whitey Jr. di Triple-I.</li>
+      <li>d) Komputer digital pertama digunakan dalam grafik komputer di Digital Equipment Corporation (DEC).</li>
+    </ul>
+  </li>
+
+  <li>Fase Keempat (1980-1990)
+    <ul>
+      <li>Penggunaan luas pertama dari animasi grafik 3D dilakukan dalam film unggulan Disney.</li>
+      <li>AutoCAD 1.0 diluncurkan - Ini hanya digunakan untuk representasi bingkai kawat.</li>
+      <li>Perangkat lunak pencitraan medis yang dikombinasikan dengan teknologi Voxel.</li>
+      <li>Standar Video Graphics Array (VGA) diperkenalkan.</li>
+    </ul>
+  </li>
+</ol>
